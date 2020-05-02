@@ -6,7 +6,7 @@ const Header = () => (
   <div className="header">
     <Row type="flex" justify="center">
         {/* 适配各种终端设备 */}
-        <Col  xs={24} sm={24} md={10} lg={10} xl={10}>
+        <Col  xs={24} sm={24} md={10} lg={15} xl={12}>
             <span className="header-logo">CC_CHEN</span>
             <span className="header-txt">全站开发交流学习</span>
         </Col>

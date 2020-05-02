@@ -3,7 +3,7 @@ import Head from 'next/head'
 import { Row, Col } from 'antd'
 import Header from '../components/Header'
 
-const Home = () => (
+const List = () => (
   <>
     <Head>
       <title>Home</title>
@@ -16,4 +16,4 @@ const Home = () => (
   </>
 )
 
-export default Home
+export default List
